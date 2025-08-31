@@ -36,7 +36,7 @@ This project is a **Node.js + Express** backend using **MongoDB (Mongoose)** for
 1. Clone the repository:
 
    ```bash
-   git clone <repo-url>
+   git clone https://github.com/lalkazaurus/WahaServer.git
    cd wserver
    ```
 
